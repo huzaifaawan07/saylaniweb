@@ -1,0 +1,164 @@
+
+.list{
+    list-style-type: none;
+    
+}
+li{
+    display: inline-block;
+    margin-top: 0.5em;
+    margin-left: 1em;
+    
+}
+
+.text{
+    color: cornsilk;
+}
+.button{
+    padding: 1px;
+}
+.main{
+    background-color: rgb(9, 124, 255);
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.one,two,three{
+    width: 100cm;
+}
+.main2{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.buttons{
+    border-radius: 100px;
+    border: none
+   
+    
+}
+.buttons:hover{
+    background-color: rgb(3, 87, 184);
+    color: seashell;
+    border: none;
+    border-radius: 100px;
+}
+
+.home{
+    background-color: rgb(3, 87, 184);
+    color: seashell;
+    border-radius: 100px;
+
+}
+.main3{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.slideimg{
+    max-width: 100%;
+    height: auto;
+}
+  .marq{
+      background-color: slateblue;
+      color: snow;
+  }
+  h3{
+      text-align: center;
+      color: green;
+  }
+  .text{
+      color: cyan;
+  }
+  .main5{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: rgb(3, 70, 194)
+   
+  }
+  .p{
+      color: rgb(168, 228, 223);
+      font-size: 150%;
+  }
+ 
+  .main6{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  
+ .pp{
+     font-size: 150%;
+     color: rgb(6, 106, 136);
+ }
+ .maue{
+     text-align: center;
+ }
+ .main7{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+ }
+.ppp{
+    font-size: 120%;
+    color: darkblue;
+}
+h4{
+    text-align: center;
+    color: darkorchid;
+}
+.marquee{
+    background-color: darkorchid;
+    color: snow;
+    height: 100px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    
+}
+.marq2{
+    text-align: center;
+}
+.main8{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.main9{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: rgb(5, 8, 8);
+    
+}
+.ltext{
+    text-align: left;
+    color: darkgray;
+    
+    
+}
+.text2{
+    color: silver;
+    font-size: 120%;
+}
+.cc{
+    background-color: rgb(5, 44, 77);
+    color: white;
+}
